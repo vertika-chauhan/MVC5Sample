@@ -1,1 +1,1 @@
-# vidly-mvc-5
+# Sample-mvc-5
