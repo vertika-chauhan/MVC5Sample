@@ -23,6 +23,7 @@ namespace MVC5.Controllers
 
         public ViewResult Index()
         {
+            //Eager loading
             var customers =
                 _context.Customers.Include(c => c.MemberShipType).ToList();
 
