@@ -1,0 +1,138 @@
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Vidly.dll.config
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Vidly.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Vidly.pdb
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Antlr3.Runtime.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\EntityFramework.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Newtonsoft.Json.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Owin.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Helpers.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Mvc.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Optimization.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Razor.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\WebGrease.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Helpers.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Mvc.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Optimization.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.Razor.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Antlr3.Runtime.pdb
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Newtonsoft.Json.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\EntityFramework.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.csprojAssemblyReference.cache
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.GenerateResource.cache
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.CoreCompileInputs.cache
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.CopyComplete
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\Vidly.dll
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\Vidly.pdb
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.InitialModel.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.AddIsSubsribedToCustomer.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.AddMembershipType.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.insertIntoDb.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.addedtypetoMembershipType.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.updatetomembershiptype.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.addedBirthdatecolumntoCustomerClass.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.tableGenreAdded.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.ColumnAddedToMovie.resources
+D:\Vertika\Project\MVC5Sample\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.Insertionto.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Antlr3.Runtime.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\EntityFramework.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\EntityFramework.SqlServer.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Google.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Newtonsoft.Json.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Owin.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Helpers.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Mvc.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Optimization.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Razor.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.Deployment.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.Razor.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\WebGrease.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Helpers.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Mvc.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Optimization.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.Razor.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.Deployment.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\System.Web.WebPages.Razor.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Antlr3.Runtime.pdb
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Newtonsoft.Json.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\EntityFramework.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\EntityFramework.SqlServer.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Google.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.csprojAssemblyReference.cache
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.InitialModel.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.AddIsSubsribedToCustomer.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.AddMembershipType.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.insertIntoDb.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.addedtypetoMembershipType.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.updatetomembershiptype.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.addedBirthdatecolumntoCustomerClass.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.tableGenreAdded.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.ColumnAddedToMovie.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.Migrations.Insertionto.resources
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.GenerateResource.cache
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.CoreCompileInputs.cache
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.csproj.CopyComplete
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\MVC5.dll.config
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\MVC5.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\bin\MVC5.pdb
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.dll
+D:\Vertika\Project\New folder\MVC5Sample\Vidly\obj\Debug\MVC5.pdb
