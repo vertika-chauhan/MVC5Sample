@@ -26,6 +26,8 @@ namespace MVC5.Models
 
         public DbSet<MemberShipType> MembershipTypes { get; set; }
         public DbSet<Genre> Genres { get; set; }
+
+        public DbSet<Rental> rentals { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
